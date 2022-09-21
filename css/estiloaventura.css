@@ -1,0 +1,77 @@
+#fondo{
+    background-image: url(../img/fondo.jpg);
+   background-size: 150%;
+   
+}
+
+.titulo{
+    color: bisque;
+}
+
+.comienzo{
+    color: bisque;
+}
+
+.apagina1{
+    color: red;
+}
+
+#iniciar{
+    border: 1px solid #2e518b; 
+padding: 10px; 
+background-color: #2e518b; 
+color: #ffffff; 
+text-decoration: none; 
+text-transform: uppercase; 
+font-family: 'Helvetica', sans-serif; 
+border-radius: 50px;
+}
+
+body, h1, h2, a{
+    text-align: center;
+    color: bisque;
+}
+
+#derecha{
+    border: 1px solid #2e518b; 
+padding: 10px; 
+background-color: #2e518b; 
+color: #ffffff; 
+text-decoration: none; 
+text-transform: uppercase; 
+font-family: 'Helvetica', sans-serif; 
+border-radius: 50px;
+}
+
+#izquierda{
+    border: 1px solid #2e518b; 
+padding: 10px; 
+background-color: #2e518b; 
+color: #ffffff; 
+text-decoration: none; 
+text-transform: uppercase; 
+font-family: 'Helvetica', sans-serif; 
+border-radius: 50px;
+}
+
+#atras{
+    border: 1px solid #2e518b; 
+padding: 10px; 
+background-color: #2e518b; 
+color: #ffffff; 
+text-decoration: none; 
+text-transform: uppercase; 
+font-family: 'Helvetica', sans-serif; 
+border-radius: 50px;
+}
+
+a{
+    border: 1px solid #2e518b; 
+padding: 10px; 
+background-color: #2e518b; 
+color: #ffffff; 
+text-decoration: none; 
+text-transform: uppercase; 
+font-family: 'Helvetica', sans-serif; 
+border-radius: 50px;  
+}
